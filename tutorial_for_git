@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T09:42:12.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="17.0.0" etag="QKDwsthKgLk5Mxa1eYCB" type="github"><diagram id="IHO_PMyBGFOu6CiJgLlB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-14T09:48:28.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="0oGrv44SqcbK21ttUygz" version="17.0.0" type="github">
+  <diagram id="IHO_PMyBGFOu6CiJgLlB" name="Page-1">
+    <mxGraphModel dx="501" dy="227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U8gOX0iKSRgTI8WbQVjc-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="210" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="U8gOX0iKSRgTI8WbQVjc-3" value="was ist git" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="427" y="163" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U8gOX0iKSRgTI8WbQVjc-4" value="was brauchst du" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="163" width="137" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U8gOX0iKSRgTI8WbQVjc-5" value="installation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="230" width="197" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
