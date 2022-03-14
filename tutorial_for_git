@@ -1,29 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T09:52:02.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="LXmKgTKHzoh-Sw02N1-N" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T09:56:38.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="yb6IUJXKAutsd4hucUD_" version="17.0.0" type="github">
   <diagram id="IHO_PMyBGFOu6CiJgLlB" name="Page-1">
-    <mxGraphModel dx="673" dy="305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="881" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="U8gOX0iKSRgTI8WbQVjc-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="210" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="U8gOX0iKSRgTI8WbQVjc-3" value="was ist git" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U8gOX0iKSRgTI8WbQVjc-3" value="was ist git" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="427" y="178" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U8gOX0iKSRgTI8WbQVjc-4" value="was brauchst du" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U8gOX0iKSRgTI8WbQVjc-4" value="was brauchst du" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="283" y="178" width="137" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U8gOX0iKSRgTI8WbQVjc-5" value="installation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U8gOX0iKSRgTI8WbQVjc-5" value="installation" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="286" y="245" width="197" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U8gOX0iKSRgTI8WbQVjc-8" value="Erklärung der basic befehle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U8gOX0iKSRgTI8WbQVjc-8" value="Erklärung der basic befehle" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="285.5" y="315" width="197" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U8gOX0iKSRgTI8WbQVjc-9" value="Beispiel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U8gOX0iKSRgTI8WbQVjc-9" value="Beispiel&lt;br&gt;(evtl. mit Video)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="285.5" y="385" width="104.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U8gOX0iKSRgTI8WbQVjc-10" value="Wissenswertes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U8gOX0iKSRgTI8WbQVjc-10" value="Wissenswertes" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="397" y="385" width="83" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U8gOX0iKSRgTI8WbQVjc-11" value="Rot: Essenziell für Anwendung&lt;br&gt;&lt;br&gt;Blau: Für persönliche Interesse&lt;br&gt;&lt;br&gt;Grün: Hilfe" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="60" y="185" width="200" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="U8gOX0iKSRgTI8WbQVjc-12" value="Video&lt;br&gt;verlinkt" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="420" y="252.5" width="55.5" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
