@@ -1,1 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T13:06:13.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" version="17.2.2" etag="-SC8iBTKyf5fgtWmdt_h" type="github"><diagram id="C8iBYE5NbAGY-b9Jj_wu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-28T13:16:12.292Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="RtQuvobOrwXCyh7lcGhb" version="17.2.2" type="github">
+  <diagram id="C8iBYE5NbAGY-b9Jj_wu" name="Page-1">
+    <mxGraphModel dx="1778" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3X4f8agT0qxFQps-u9_g-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3X4f8agT0qxFQps-u9_g-1" target="3X4f8agT0qxFQps-u9_g-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3X4f8agT0qxFQps-u9_g-14" value="TOKEN GETS PASSED" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3X4f8agT0qxFQps-u9_g-13">
+          <mxGeometry x="0.2081" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3X4f8agT0qxFQps-u9_g-1" value="repl.it big server&lt;br&gt;with static IP for all" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_Partial_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="351" y="403" width="126" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3X4f8agT0qxFQps-u9_g-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3X4f8agT0qxFQps-u9_g-2" target="3X4f8agT0qxFQps-u9_g-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3X4f8agT0qxFQps-u9_g-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3X4f8agT0qxFQps-u9_g-2" target="3X4f8agT0qxFQps-u9_g-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3X4f8agT0qxFQps-u9_g-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3X4f8agT0qxFQps-u9_g-2" target="3X4f8agT0qxFQps-u9_g-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3X4f8agT0qxFQps-u9_g-2" value="discord big server&lt;br&gt;bots are running here" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_Partial_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="351" y="720" width="126" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3X4f8agT0qxFQps-u9_g-3" value="private discord server&lt;br&gt;BOTS WITH TOKEN 1,2" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_Partial_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="80" y="1007" width="126" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3X4f8agT0qxFQps-u9_g-4" value="private discord server&lt;br&gt;BOTS WITH TOKEN 2,3" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_Partial_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="351" y="1007" width="126" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3X4f8agT0qxFQps-u9_g-5" value="private discord server&lt;br&gt;BOTS WITH TOKEN 1,3" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_Partial_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="620" y="1007" width="126" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3X4f8agT0qxFQps-u9_g-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3X4f8agT0qxFQps-u9_g-15" target="3X4f8agT0qxFQps-u9_g-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3X4f8agT0qxFQps-u9_g-15" value="bot code instance running&lt;br&gt;TOKEN 2" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_Partial_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="351" y="160" width="126" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3X4f8agT0qxFQps-u9_g-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3X4f8agT0qxFQps-u9_g-16" target="3X4f8agT0qxFQps-u9_g-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3X4f8agT0qxFQps-u9_g-16" value="bot code instance running&lt;br&gt;TOKEN 1" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_Partial_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="126" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3X4f8agT0qxFQps-u9_g-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3X4f8agT0qxFQps-u9_g-17" target="3X4f8agT0qxFQps-u9_g-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3X4f8agT0qxFQps-u9_g-17" value="bot code instance running&lt;br&gt;TOKEN 3" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_Partial_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="620" y="160" width="126" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3X4f8agT0qxFQps-u9_g-27" value="TOKEN GETS PASSED" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="360" width="140" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
